@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b72cca0-7142-488c-ae6e-403870435072" name="Default Changelist" comment="" />
+    <list default="true" id="0b72cca0-7142-488c-ae6e-403870435072" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,34 +63,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589208861709</updated>
-      <workItem from="1589208865536" duration="3462000" />
+      <workItem from="1589208865536" duration="6867000" />
+      <workItem from="1589246793246" duration="3703000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <auto-vendoring-mode>false</auto-vendoring-mode>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="286" key="GridCell.Tab.0.bottom" timestamp="1589212619614">
+    <state width="1322" height="241" key="GridCell.Tab.0.bottom" timestamp="1589250895499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="286" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589212619614" />
-    <state width="1322" height="286" key="GridCell.Tab.0.center" timestamp="1589212619613">
+    <state width="1322" height="241" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589250895499" />
+    <state width="1322" height="241" key="GridCell.Tab.0.center" timestamp="1589250895499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="286" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589212619613" />
-    <state width="1322" height="286" key="GridCell.Tab.0.left" timestamp="1589212619613">
+    <state width="1322" height="241" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589250895499" />
+    <state width="1322" height="241" key="GridCell.Tab.0.left" timestamp="1589250895499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="286" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589212619613" />
-    <state width="1322" height="286" key="GridCell.Tab.0.right" timestamp="1589212619614">
+    <state width="1322" height="241" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589250895499" />
+    <state width="1322" height="241" key="GridCell.Tab.0.right" timestamp="1589250895499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="286" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589212619614" />
+    <state width="1322" height="241" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589250895499" />
     <state x="65" y="0" key="new project wizard" timestamp="1589210640389">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
